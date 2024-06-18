@@ -7,6 +7,13 @@
 A. [Home](https://www.django-rest-framework.org/)
 
 B. [Tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
+  * [Quickstart](https://github.com/LeTanThanh/django-rest-framework-tutorial)
+  * Serialization
+  * Requests and Responses
+  * Class-based Views
+  * Authentication & Permissions
+  * Relationships & Hyperlinked APIs
+  * ViewSets & Routers
 
 C. [API Guide](https://www.django-rest-framework.org/api-guide/requests/)
 
